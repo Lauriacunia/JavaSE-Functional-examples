@@ -1,0 +1,6 @@
+**Consumer** es una interfaz funcional en Java 8 que representa una operación que toma un valor como entrada y no devuelve nada. Se define en el paquete java.util.function.
+
+Aspectos importantes:
+
+- Parámetro: Un tipo de dato genérico T.
+- Valor de retorno: void.
